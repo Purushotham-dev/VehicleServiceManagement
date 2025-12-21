@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9061598-2183-4AB7-AC6C-7195F59E4346}|VSM.API\\VSM.API.csproj|d:\\vehicle management service system\\vehicleservicemanagement\\vsm.api\\vsm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B9061598-2183-4AB7-AC6C-7195F59E4346}|VSM.API\\VSM.API.csproj|solutionrelative:vsm.api\\vsm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7A9B7D62-8246-4155-8B1F-B1414C418294}|VSM.Infrastructure\\VSM.Infrastructure.csproj|d:\\vehicle management service system\\vehicleservicemanagement\\vsm.infrastructure\\vsm.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A9B7D62-8246-4155-8B1F-B1414C418294}|VSM.Infrastructure\\VSM.Infrastructure.csproj|solutionrelative:vsm.infrastructure\\vsm.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F978B8E6-A04B-4641-9302-E1014E1BEF0A}|VSM.MVC\\VSM.MVC.csproj|d:\\vehicle management service system\\vehicleservicemanagement\\vsm.mvc\\vsm.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F978B8E6-A04B-4641-9302-E1014E1BEF0A}|VSM.MVC\\VSM.MVC.csproj|solutionrelative:vsm.mvc\\vsm.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A9B7D62-8246-4155-8B1F-B1414C418294}|VSM.Infrastructure\\VSM.Infrastructure.csproj|d:\\vehicle management service system\\vehicleservicemanagement\\vsm.infrastructure\\vsm.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7A9B7D62-8246-4155-8B1F-B1414C418294}|VSM.Infrastructure\\VSM.Infrastructure.csproj|solutionrelative:vsm.infrastructure\\vsm.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E880B05-3607-4A91-A662-0E24205639F9}|VSM.Application\\VSM.Application.csproj|d:\\vehicle management service system\\vehicleservicemanagement\\vsm.application\\vsm.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -70,25 +66,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VSM.Infrastructure",
+              "DocumentIndex": 0,
+              "Title": "VSM.Infrastructure.csproj",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.Infrastructure\\VSM.Infrastructure.csproj",
               "RelativeDocumentMoniker": "VSM.Infrastructure\\VSM.Infrastructure.csproj",
               "ToolTip": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.Infrastructure\\VSM.Infrastructure.csproj",
               "RelativeToolTip": "VSM.Infrastructure\\VSM.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-20T19:52:38.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VSM.Application",
+              "DocumentIndex": 2,
+              "Title": "VSM.Application.csproj",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.Application\\VSM.Application.csproj",
               "RelativeDocumentMoniker": "VSM.Application\\VSM.Application.csproj",
               "ToolTip": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.Application\\VSM.Application.csproj",
@@ -100,20 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VSM.API",
-              "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.API\\VSM.API.csproj",
-              "RelativeDocumentMoniker": "VSM.API\\VSM.API.csproj",
-              "ToolTip": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.API\\VSM.API.csproj",
-              "RelativeToolTip": "VSM.API\\VSM.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-20T19:50:22.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\Program.cs",
               "RelativeDocumentMoniker": "VSM.MVC\\Program.cs",
@@ -121,12 +104,11 @@
               "RelativeToolTip": "VSM.MVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T19:48:06.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:48:06.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "VSM.MVC\\Views\\_ViewStart.cshtml",
@@ -134,13 +116,12 @@
               "RelativeToolTip": "VSM.MVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-20T19:47:30.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:47:30.318Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VSM.MVC",
+              "Title": "VSM.MVC.csproj",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\VSM.MVC.csproj",
               "RelativeDocumentMoniker": "VSM.MVC\\VSM.MVC.csproj",
               "ToolTip": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\VSM.MVC.csproj",
@@ -152,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "VSM.MVC\\Views\\_ViewImports.cshtml",
@@ -160,12 +141,11 @@
               "RelativeToolTip": "VSM.MVC\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-20T19:47:22.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:47:22.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "VSM.MVC\\Views\\Shared\\_Layout.cshtml",
@@ -173,12 +153,11 @@
               "RelativeToolTip": "VSM.MVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-20T19:20:35.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:20:35.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "VSM.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -186,12 +165,11 @@
               "RelativeToolTip": "VSM.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-20T19:20:50.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:20:50.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "VSM.MVC\\Views\\Home\\Privacy.cshtml",
@@ -199,12 +177,11 @@
               "RelativeToolTip": "VSM.MVC\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-20T19:29:01.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:29:01.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "VSM.MVC\\Views\\Home\\Index.cshtml",
@@ -212,12 +189,11 @@
               "RelativeToolTip": "VSM.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-20T19:25:19.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:25:19.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "VSM.MVC\\Views\\Shared\\_Layout.cshtml.css",
@@ -225,12 +201,11 @@
               "RelativeToolTip": "VSM.MVC\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-20T19:33:43.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:33:43.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "VSM.MVC\\Controllers\\HomeController.cs",
@@ -238,12 +213,11 @@
               "RelativeToolTip": "VSM.MVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T19:24:56.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:24:56.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.MVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "VSM.MVC\\Models\\ErrorViewModel.cs",
@@ -251,12 +225,11 @@
               "RelativeToolTip": "VSM.MVC\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T19:20:26.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:20:26.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.API\\Program.cs",
               "RelativeDocumentMoniker": "VSM.API\\Program.cs",
@@ -264,8 +237,7 @@
               "RelativeToolTip": "VSM.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T19:14:55.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T19:14:55.197Z"
             }
           ]
         }
