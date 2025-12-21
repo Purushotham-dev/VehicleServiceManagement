@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCeg6YPm6gs=",
+  "success": true,
+  "projectFilePath": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.API\\VSM.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\purus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\purus\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
