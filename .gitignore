@@ -1,11 +1,13 @@
-# Visual Studio / IDE files
-.vs/
-*.suo
-*.user
-
-# Build outputs
+# Build results
 bin/
 obj/
 
+# User-specific files
+*.user
+*.suo
+
 # Logs
 *.log
+
+# Visual Studio cache
+.vs/
