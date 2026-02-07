@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VSM.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c17dc627212719651d0149507a79b6aa77e94dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcf04085b29809f0cf53fd2382f6379b7c168f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("VSM.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VSM.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
