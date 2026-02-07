@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VSM.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16cfb1a90ae056f651461c7b6851da1580569c53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa1b9e49701ca8c396c378b8293c6808f7020d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("VSM.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VSM.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
