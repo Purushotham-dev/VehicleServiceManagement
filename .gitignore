@@ -2,6 +2,11 @@
 bin/
 obj/
 
+# .NET build artifacts
+bin/
+obj/
+.vs/
+
 # User-specific files
 *.rsuser
 *.suo
