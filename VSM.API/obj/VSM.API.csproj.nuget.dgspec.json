@@ -60,6 +60,26 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[10.1.0, )"
             }
           },
           "imports": [
@@ -247,6 +267,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.Application\\VSM.Application.csproj": {
+                "projectPath": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.Application\\VSM.Application.csproj"
+              },
               "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.Domain\\VSM.Domain.csproj": {
                 "projectPath": "D:\\Vehicle Management Service System\\VehicleServiceManagement\\VSM.Domain\\VSM.Domain.csproj"
               }
@@ -268,6 +291,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -13,3 +13,4 @@ D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Application\ob
 D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Application\obj\Debug\net9.0\refint\VSM.Application.dll
 D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Application\obj\Debug\net9.0\VSM.Application.pdb
 D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Application\obj\Debug\net9.0\ref\VSM.Application.dll
+D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Application\obj\Debug\net9.0\VSM.Application.sourcelink.json

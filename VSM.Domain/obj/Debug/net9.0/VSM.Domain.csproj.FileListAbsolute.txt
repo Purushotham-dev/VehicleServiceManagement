@@ -9,3 +9,4 @@ D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Domain\obj\Deb
 D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Domain\obj\Debug\net9.0\refint\VSM.Domain.dll
 D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Domain\obj\Debug\net9.0\VSM.Domain.pdb
 D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Domain\obj\Debug\net9.0\ref\VSM.Domain.dll
+D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Domain\obj\Debug\net9.0\VSM.Domain.sourcelink.json

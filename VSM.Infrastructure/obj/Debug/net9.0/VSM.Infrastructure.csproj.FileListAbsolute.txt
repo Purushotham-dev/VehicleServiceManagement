@@ -13,3 +13,6 @@ D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Infrastructure
 D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Infrastructure\obj\Debug\net9.0\refint\VSM.Infrastructure.dll
 D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Infrastructure\obj\Debug\net9.0\VSM.Infrastructure.pdb
 D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Infrastructure\obj\Debug\net9.0\ref\VSM.Infrastructure.dll
+D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Infrastructure\obj\Debug\net9.0\VSM.Infrastructure.sourcelink.json
+D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Infrastructure\bin\Debug\net9.0\VSM.Application.dll
+D:\Vehicle Management Service System\VehicleServiceManagement\VSM.Infrastructure\bin\Debug\net9.0\VSM.Application.pdb
